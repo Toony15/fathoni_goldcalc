@@ -1,0 +1,1 @@
+# fathoni_goldcalc
