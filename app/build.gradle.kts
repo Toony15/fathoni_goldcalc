@@ -6,7 +6,7 @@ plugins {
 
 android {
     namespace = "com.toni.goldcalc"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.toni.goldcalc"
